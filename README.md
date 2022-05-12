@@ -1,5 +1,7 @@
 <h1> Ethereum Mint-Bot </h1>
 
+Support [Discord](https://discord.gg/ezmint)
+
 This is one if not the fastest mint bot out there, you'll be able to mint NFTs as soon as the mint starts. The system is really optimized and you should be able to win any gas war for you're hyped mints.
 
 
